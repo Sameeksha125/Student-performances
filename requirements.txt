@@ -4,3 +4,4 @@ ipykernel
 streamlit
 matplotlib
 seaborn
+scikit-learn
